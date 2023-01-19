@@ -171,6 +171,11 @@ body {
   font-size: 19px;
   line-height: 1.8;
 }
+@media (max-width: 700px) {
+  .landing .intro-text p {
+    color: white;
+  }
+}
 /* End Landing Section */
 /* Start Features */
 .features {
